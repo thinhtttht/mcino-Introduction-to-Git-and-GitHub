@@ -111,7 +111,33 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
+## Enforcement Guidelines
 
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
+
+### Correction
+
+Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+
+Consequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate.
+
+### Warning
+
+Community Impact: A violation through a single incident or series of actions.
+
+Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time.
+
+### Temporary Ban
+
+Community Impact: A serious violation of community standards.
+
+Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time.
+
+### Permanent Ban
+
+Community Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior.
+
+Consequence: A permanent ban from any sort of public interaction within the community.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
